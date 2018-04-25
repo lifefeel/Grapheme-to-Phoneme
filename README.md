@@ -14,5 +14,7 @@ DNN 기반 Grapheme-to-Phoneme 관련자료 모음
 * [Jointly Learning to Align and Convert Graphemes to Phonemes with Neural Attention Models (2016.10)](https://arxiv.org/abs/1610.06540)
   * LSTM encoder-decoder + global attention 앙상블 모델
   * WER 20.24% (CMUDict)
-* [Multitask Sequence-to-Sequence Models for Grapheme-to-Phoneme Conversion (2017.08)](http://www.isca-speech.org/archive/Interspeech_2017/pdfs/1436.PDF)
+* [Multitask Sequence-to-Sequence Models for Grapheme-to-Phoneme Conversion (2017.08.  Interspeech2017)](http://www.isca-speech.org/archive/Interspeech_2017/pdfs/1436.PDF)
+  * Sequitur G2P + Multitask learning + BLSTM + Attention 모델 
+  * WER 24.88% (CMUDict)
 * [Massively Multilingual Neural Grapheme-to-Phoneme Conversion (2017.08)](https://arxiv.org/abs/1708.01464)

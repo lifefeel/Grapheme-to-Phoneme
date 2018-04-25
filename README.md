@@ -5,6 +5,9 @@ DNN 기반 Grapheme-to-Phoneme 관련자료 모음
 * [Sequence-to-Sequence Neural Net Models for Grapheme-to-Phoneme Conversion (2015.05)](https://arxiv.org/abs/1506.00196)
   * BLSTM을 사용한 encoder-decoder 모델
   * WER 23.55% (CMUDict)
+* [Deep Bidirectional Long Short-Term Memory Recurrent Neural Networks for Grapheme-to-Phoneme Conversion utilizing Complex Many-to-Many Alignments (2016.09. Interspeech2016)](https://www.isca-speech.org/archive/Interspeech_2016/pdfs/1229.PDF)
+  * LSTM LM을 이용한 BLSTM 모델
+  * WER 23.23% (CMUDict)
 * [Grapheme-to-phoneme conversion using Long Short-Term Memory recurrent neural networks (2015.04)](https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/43264.pdf)
   * LSTM및 n-gram FST를 조합한 모델
   * WER 21.3% (CMUDict)

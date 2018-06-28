@@ -1,7 +1,13 @@
 # Grapheme-to-Phoneme(G2P)
-DNN 기반 Grapheme-to-Phoneme 관련자료 모음
+Grapheme-to-Phoneme 관련자료 모음
 
+## Tools
+* [Sequitur G2P](http://www-i6.informatik.rwth-aachen.de/web/Software/g2p.html) - A trainable Grapheme-to-Phoneme converter
 ## Papers
+### 통계적 방법을 이용한 G2P
+* [Joint-Sequence Models for Grapheme-to-Phoneme Conversion (2008.05)](https://www.sciencedirect.com/science/article/pii/S0167639308000046?via%3Dihub)
+
+### DNN 기반 G2P
 * [Sequence-to-Sequence Neural Net Models for Grapheme-to-Phoneme Conversion (2015.05)](https://arxiv.org/abs/1506.00196)
   * BLSTM을 사용한 encoder-decoder 모델
   * PER 5.45%, WER 23.55% (CMUDict)

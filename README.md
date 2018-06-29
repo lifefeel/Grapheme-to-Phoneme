@@ -6,6 +6,8 @@ Grapheme-to-Phoneme 관련자료 모음
   * CMUSphinx 툴에서 제공하는 오픈소스 G2P로 발음사전을 구축할 수 있는 튜토리얼 
 ## Tools
 * [Sequitur G2P](http://www-i6.informatik.rwth-aachen.de/web/Software/g2p.html) - A trainable Grapheme-to-Phoneme converter
+  * 위 링크에서 오리지널 소스코드를 받을 수 있으나 2016년 5월에 마지막 버전이 출시된 이후 업데이트가 되지 않고 있다. [@jtrmal](https://github.com/jtrmal)이란 사람에 의해 별도로 github 레포지토리가 유지되고 있다. 
+  * github 레포지토리 - https://github.com/sequitur-g2p/sequitur-g2p
 * [Sequence-to-Sequence G2P toolkit](https://github.com/cmusphinx/g2p-seq2seq) - CMUSphinx에서 공개한 오픈소스 Seq2Seq G2P
 ## Papers
 ### 통계적 방법을 이용한 G2P

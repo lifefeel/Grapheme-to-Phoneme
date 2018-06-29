@@ -9,6 +9,11 @@ Grapheme-to-Phoneme 관련자료 모음
   * 위 링크에서 오리지널 소스코드를 받을 수 있으나 2016년 5월에 마지막 버전이 출시된 이후 업데이트가 되지 않고 있다. [@jtrmal](https://github.com/jtrmal)이란 사람에 의해 별도로 github 레포지토리가 유지되고 있다. 
   * github 레포지토리 - https://github.com/sequitur-g2p/sequitur-g2p
 * [Sequence-to-Sequence G2P toolkit](https://github.com/cmusphinx/g2p-seq2seq) - CMUSphinx에서 공개한 오픈소스 Seq2Seq G2P
+
+## Dataset
+* [CMU US English Dictionary](https://github.com/cmusphinx/cmudict)
+  * 공식사이트는 [Speech at CMU](http://www.speech.cs.cmu.edu/)에 있는 [CMUdict](http://www.speech.cs.cmu.edu/cgi-bin/cmudict) 페이지 인 것 같으나 최근까지 업데이트 되고 있는 버전은 위의 링크인 github 레포지토리이다.
+
 ## Papers
 ### 통계적 방법을 이용한 G2P
 * [Joint-Sequence Models for Grapheme-to-Phoneme Conversion (2008.05)](https://www.sciencedirect.com/science/article/pii/S0167639308000046?via%3Dihub)

@@ -15,6 +15,8 @@ Grapheme-to-Phoneme 관련자료 모음
 * [Sequence-to-Sequence Neural Net Models for Grapheme-to-Phoneme Conversion (2015.05)](https://arxiv.org/abs/1506.00196)
   * BLSTM을 사용한 encoder-decoder 모델
   * PER 5.45%, WER 23.55% (CMUDict)
+  * PER 7.38%, WER 30.77% (NetTalk)
+  * PER 6.51%, WER 26.69% (Pronlex)
 * [Deep Bidirectional Long Short-Term Memory Recurrent Neural Networks for Grapheme-to-Phoneme Conversion utilizing Complex Many-to-Many Alignments (2016.09. Interspeech2016)](https://www.isca-speech.org/archive/Interspeech_2016/pdfs/1229.PDF)
   * LSTM LM을 이용한 BLSTM 모델
   * PER 5.37%, WER 23.23% (CMUDict)

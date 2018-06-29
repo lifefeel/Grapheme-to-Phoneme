@@ -1,8 +1,12 @@
 # Grapheme-to-Phoneme(G2P)
 Grapheme-to-Phoneme 관련자료 모음
 
+## Tutorials
+* [Building a phonetic dictionary](https://cmusphinx.github.io/wiki/tutorialdict/)
+  * CMUSphinx 툴에서 제공하는 오픈소스 G2P로 발음사전을 구축할 수 있는 튜토리얼 
 ## Tools
 * [Sequitur G2P](http://www-i6.informatik.rwth-aachen.de/web/Software/g2p.html) - A trainable Grapheme-to-Phoneme converter
+* [Sequence-to-Sequence G2P toolkit](https://github.com/cmusphinx/g2p-seq2seq) - CMUSphinx에서 공개한 오픈소스 Seq2Seq G2P
 ## Papers
 ### 통계적 방법을 이용한 G2P
 * [Joint-Sequence Models for Grapheme-to-Phoneme Conversion (2008.05)](https://www.sciencedirect.com/science/article/pii/S0167639308000046?via%3Dihub)

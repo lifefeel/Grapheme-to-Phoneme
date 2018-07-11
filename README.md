@@ -17,6 +17,8 @@ Grapheme-to-Phoneme 관련자료 모음
 ## Papers
 ### 통계적 방법을 이용한 G2P
 * [Joint-Sequence Models for Grapheme-to-Phoneme Conversion (2008.05)](https://www.sciencedirect.com/science/article/pii/S0167639308000046?via%3Dihub)
+* [GRAPHEME-TO-PHONEME CONVERSION SCHEME FOR SENTENCE-BY-SENTENCE LEARNING OF KOREAN MANUSCRIPT USING JOINT SEQUENCE STATISTICAL MODEL(2016)](http://troindia.in/journal/ijcesr/vol3iss7part2/88-91.pdf)
+  * 한국어에 대해 문장단위로 학습하는 것을 제안한 논문
 
 ### DNN 기반 G2P
 * [Sequence-to-Sequence Neural Net Models for Grapheme-to-Phoneme Conversion (2015.05)](https://arxiv.org/abs/1506.00196)

@@ -46,6 +46,8 @@ Grapheme-to-Phoneme 관련자료 모음
   * 미국 오하이오 주립대 언어학과에서 발표한 논문
 * [Grapheme-to-Phoneme Conversion Using Automatically Extracted Associative Rules for Korean TTS System (2006)](https://www.isca-speech.org/archive/archive_papers/interspeech_2006/i06_1405.pdf) - Jinsik Lee, Seungwon Kim and Gary Geunbae Lee, Interspeech 2006
   * 포항공대 이근배 교수 연구실에서 발표한 논문
+* [Rule-based Korean Grapheme to Phoneme Conversion Using Sound Patterns (2009)](http://www.aclweb.org/anthology/Y09-2049) - Yu-Chun Wang, Richard Tzong-Han Tsai
+  * 타이완 대학 연구실에서 발표한 논문
 * [A data-driven grapheme-to-phoneme conversion method using dynamic contextual converting rules for Korean TTS systems (2009)](https://www.sciencedirect.com/science/article/pii/S0885230809000023) - Jinsik Lee, Gary GeunbaeLee
   * 포항공대 이근배 교수 연구실에서 발표한 논문
 * [GRAPHEME-TO-PHONEME CONVERSION SCHEME FOR SENTENCE-BY-SENTENCE LEARNING OF KOREAN MANUSCRIPT USING JOINT SEQUENCE STATISTICAL MODEL(2016)](http://troindia.in/journal/ijcesr/vol3iss7part2/88-91.pdf)

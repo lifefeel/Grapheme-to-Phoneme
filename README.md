@@ -40,3 +40,12 @@ Grapheme-to-Phoneme 관련자료 모음
   * Sequitur G2P + Multitask learning + BLSTM + Attention 모델 
   * PER 5.76%, WER 24.88% (CMUDict)
 * [Massively Multilingual Neural Grapheme-to-Phoneme Conversion (2017.08)](https://arxiv.org/abs/1708.01464)
+
+### Korean G2P 관련 논문
+* [Grapheme-to-Phoneme Conversion Using Automatically Extracted Associative Rules for Korean TTS System (2006)](https://www.isca-speech.org/archive/archive_papers/interspeech_2006/i06_1405.pdf) - Jinsik Lee, Seungwon Kim and Gary Geunbae Lee, Interspeech 2006
+  * 포항공대 이근배 교수 연구실에서 발표한 논문
+* [A data-driven grapheme-to-phoneme conversion method using dynamic contextual converting rules for Korean TTS systems (2009)](https://www.sciencedirect.com/science/article/pii/S0885230809000023) - Jinsik Lee, Gary GeunbaeLee
+  * 포항공대 이근배 교수 연구실에서 발표한 논문
+* [GRAPHEME-TO-PHONEME CONVERSION SCHEME FOR SENTENCE-BY-SENTENCE LEARNING OF KOREAN MANUSCRIPT USING JOINT SEQUENCE STATISTICAL MODEL(2016)](http://troindia.in/journal/ijcesr/vol3iss7part2/88-91.pdf)
+  * 한국어에 대해 문장단위로 학습하는 것을 제안한 논문
+  
